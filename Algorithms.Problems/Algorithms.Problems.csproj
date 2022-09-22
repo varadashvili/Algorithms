@@ -44,9 +44,37 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Codeforces\_115A_Party.cs" />
+    <Compile Include="Codeforces\_25D_RoadsNotOnlyInBerland.cs" />
+    <Compile Include="Codeforces\_468B_TwoSets.cs" />
+    <Compile Include="Codeforces\_500A_NewYearTransportation.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Timus\DataStructures\_1654_CipherMessage.cs" />
+    <Compile Include="Timus\DataStructures\_1671_AnansisCobweb.cs" />
+    <Compile Include="Timus\General\_1617_FlatSpots.cs" />
+    <Compile Include="Timus\General\_1723_SandrosBook.cs" />
+    <Compile Include="Timus\General\_1792_Hamming_Code.cs" />
+    <Compile Include="Timus\General\_1893_A380.cs" />
+    <Compile Include="Timus\General\_1925_BritishScientistsSaveTheWorld.cs" />
+    <Compile Include="Timus\General\_1935_Tears_of_Drowned.cs" />
+    <Compile Include="Timus\General\_1991_TheBattleNearTheSwamp.cs" />
+    <Compile Include="Timus\General\_2001_MathematiciansAndBerries.cs" />
+    <Compile Include="Timus\General\_2002_TestTask.cs" />
+    <Compile Include="Timus\General\_2005_TaxiForProgrammers.cs" />
+    <Compile Include="Timus\General\_2031_Overturned_Numbers.cs" />
+    <Compile Include="Timus\General\_2035_Another_Dress_Rehearsal.cs" />
+    <Compile Include="Timus\General\_2056_Scholarship.cs" />
+    <Compile Include="Timus\General\_2066_Simple_Expression.cs" />
+    <Compile Include="Timus\General\_2100_Wedding_Dinner.cs" />
     <Compile Include="Timus\GraphTheory\_1160_Network.cs" />
+    <Compile Include="Timus\GraphTheory\_1198_Jobbery.cs" />
+    <Compile Include="Timus\GraphTheory\_1272_NonYekaterinburgSubway.cs" />
+    <Compile Include="Timus\GraphTheory\_1280_TopologicalSorting.cs" />
+    <Compile Include="Timus\GraphTheory\_1325_Dirt.cs" />
+    <Compile Include="Timus\GraphTheory\_1447_2_PortkeyNetwork.cs" />
+    <Compile Include="Timus\GraphTheory\_1447_PortkeyNetwork.cs" />
+    <Compile Include="Timus\GraphTheory\_1837_IsenbaevsNumber.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -58,10 +86,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Codeforces\" />
-    <Folder Include="Timus\DataStructures\" />
     <Folder Include="Timus\DynamicProgramming\" />
-    <Folder Include="Timus\General\" />
     <Folder Include="Timus\Geometry\" />
     <Folder Include="Timus\NumberTheory\" />
   </ItemGroup>
