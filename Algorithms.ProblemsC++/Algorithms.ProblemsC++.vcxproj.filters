@@ -24,5 +24,137 @@
     <ClCompile Include="_1447_PortkeyNetwork.cpp">
       <Filter>Source Files\Timus</Filter>
     </ClCompile>
+    <ClCompile Include="_1512_Zinium.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1087_The_Time_to_Take_Stones.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1010_Discrete_Function.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1047_Simple_Calculations.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1032_Find_a_Multiple.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1024_Permutations.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1055_Combinations.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1051_Simple_Game_on_a_Grid.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1404_Easy_to_Hack.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1005_StonePile.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1180_StoneGame.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1290_Sabotage.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1139_CityBlocks.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1131_Copying.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1161_Stripies.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1370_Magician.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1081_BinaryLexicographicSequence.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1009_KbasedNumbers.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1014_Product_of_Digits.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1020_Rope.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1136_Parliament.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1582_Bookmakers.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1079_Maximum.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1086_Cryptography.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1228_Array.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1044_LuckyTickets.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1123_Salary.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1082_GabyIvanushka.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1206_Sum_of_Digits.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1352_MersennePrimes.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1022_GenealogicalTree.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1142_Relations.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1084_Goat_in_the_Garden.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1073_SquareCountry.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1021_Sacrament_of_the_Sum.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1026_Questions_and_Answers.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1012_KbasedNumbers.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1048_SuperlongSums.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1023_Buttons.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1033_Labyrinth.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1052_RabbitHunt.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1011_Conductors.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1049_BraveBalloonists.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
+    <ClCompile Include="_1528_Sequence.cpp">
+      <Filter>Source Files\Timus</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
