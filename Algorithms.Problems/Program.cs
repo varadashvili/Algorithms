@@ -1,4 +1,8 @@
-﻿using Algorithms.Problems.Timus.GraphTheory;
+﻿using Algorithms.Problems.Timus.DynamicProgramming;
+using Algorithms.Problems.Timus.General;
+using Algorithms.Problems.Timus.GraphTheory;
+using Algorithms.Problems.Timus.NumberTheory;
+using Algorithms.Problems.WorkingProblems;
 using Algorithms.Utils;
 
 using System;
@@ -15,7 +19,7 @@ namespace Algorithms.Problems
         {
             startInput();
 
-            _1160_Network.main();
+            _1203_Scientific_Conference.main();
 
             Console.ReadLine();
         }

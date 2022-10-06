@@ -78,6 +78,10 @@
     <Compile Include="Timus\GraphTheory\_1447_PortkeyNetwork.cs" />
     <Compile Include="Timus\GraphTheory\_1837_IsenbaevsNumber.cs" />
     <Compile Include="WorkingProblems\_1146_Maximum Sum.cs" />
+    <Compile Include="Timus\General\_1296_Hyperjump.cs" />
+    <Compile Include="Timus\NumberTheory\_2138_Good_Bad_Ugly.cs" />
+    <Compile Include="Timus\General\_2142_Magic.cs" />
+    <Compile Include="Timus\DynamicProgramming\_1203_Scientific_Conference.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -89,9 +93,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Timus\DynamicProgramming\" />
     <Folder Include="Timus\Geometry\" />
-    <Folder Include="Timus\NumberTheory\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
