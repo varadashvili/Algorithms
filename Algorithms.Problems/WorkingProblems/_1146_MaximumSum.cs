@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Algorithms.Problems.WorkingProblems
 {
-    class _1146_Maximum_Sum
+    class _1146_MaximumSum
     {
         public static void main()
         {

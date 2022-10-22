@@ -19,7 +19,7 @@ namespace Algorithms.Problems
         {
             startInput();
 
-            _1203_Scientific_Conference.main();
+            _2025_LineFighting.main();
 
             Console.ReadLine();
         }

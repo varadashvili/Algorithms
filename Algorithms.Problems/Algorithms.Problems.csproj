@@ -77,11 +77,17 @@
     <Compile Include="Timus\GraphTheory\_1447_2_PortkeyNetwork.cs" />
     <Compile Include="Timus\GraphTheory\_1447_PortkeyNetwork.cs" />
     <Compile Include="Timus\GraphTheory\_1837_IsenbaevsNumber.cs" />
-    <Compile Include="WorkingProblems\_1146_Maximum Sum.cs" />
+    <Compile Include="WorkingProblems\_1106_TwoTeams.cs" />
+    <Compile Include="WorkingProblems\_1119_Metro.cs" />
+    <Compile Include="WorkingProblems\_1146_MaximumSum.cs" />
     <Compile Include="Timus\General\_1296_Hyperjump.cs" />
     <Compile Include="Timus\NumberTheory\_2138_Good_Bad_Ugly.cs" />
     <Compile Include="Timus\General\_2142_Magic.cs" />
     <Compile Include="Timus\DynamicProgramming\_1203_Scientific_Conference.cs" />
+    <Compile Include="Timus\General\_1510_Order.cs" />
+    <Compile Include="WorkingProblems\_1297_Palindrome.cs" />
+    <Compile Include="Timus\General\_2025_LineFighting.cs" />
+    <Compile Include="WorkingProblems\_2111_Plato.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
