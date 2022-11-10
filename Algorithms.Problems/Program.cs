@@ -19,7 +19,7 @@ namespace Algorithms.Problems
         {
             startInput();
 
-            _2025_LineFighting.main();
+            _1297_Palindrome.main();
 
             Console.ReadLine();
         }

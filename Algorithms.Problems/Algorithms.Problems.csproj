@@ -85,9 +85,10 @@
     <Compile Include="Timus\General\_2142_Magic.cs" />
     <Compile Include="Timus\DynamicProgramming\_1203_Scientific_Conference.cs" />
     <Compile Include="Timus\General\_1510_Order.cs" />
-    <Compile Include="WorkingProblems\_1297_Palindrome.cs" />
+    <Compile Include="Timus\General\_1297_Palindrome.cs" />
     <Compile Include="Timus\General\_2025_LineFighting.cs" />
-    <Compile Include="WorkingProblems\_2111_Plato.cs" />
+    <Compile Include="Timus\General\_2111_Plato.cs" />
+    <Compile Include="Timus\General\_2149_PigeonholePrinciple.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
