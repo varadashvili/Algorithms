@@ -1,15 +1,8 @@
-﻿using Algorithms.Problems.Timus.DynamicProgramming;
-using Algorithms.Problems.Timus.General;
-using Algorithms.Problems.Timus.GraphTheory;
-using Algorithms.Problems.Timus.NumberTheory;
+﻿using System;
+using System.Threading.Tasks;
+
 using Algorithms.Problems.WorkingProblems;
 using Algorithms.Utils;
-
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Algorithms.Problems
 {
@@ -19,7 +12,7 @@ namespace Algorithms.Problems
         {
             startInput();
 
-            _1297_Palindrome.main();
+            _1119_Metro.main();
 
             Console.ReadLine();
         }

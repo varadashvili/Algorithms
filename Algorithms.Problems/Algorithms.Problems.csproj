@@ -77,9 +77,11 @@
     <Compile Include="Timus\GraphTheory\_1447_2_PortkeyNetwork.cs" />
     <Compile Include="Timus\GraphTheory\_1447_PortkeyNetwork.cs" />
     <Compile Include="Timus\GraphTheory\_1837_IsenbaevsNumber.cs" />
+    <Compile Include="Timus\NumberTheory\_1104_DontAskWomanAboutHerAge.cs" />
     <Compile Include="WorkingProblems\_1106_TwoTeams.cs" />
+    <Compile Include="WorkingProblems\_1115_Ships.cs" />
     <Compile Include="WorkingProblems\_1119_Metro.cs" />
-    <Compile Include="WorkingProblems\_1146_MaximumSum.cs" />
+    <Compile Include="Timus\DynamicProgramming\_1146_MaximumSum.cs" />
     <Compile Include="Timus\General\_1296_Hyperjump.cs" />
     <Compile Include="Timus\NumberTheory\_2138_Good_Bad_Ugly.cs" />
     <Compile Include="Timus\General\_2142_Magic.cs" />
