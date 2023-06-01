@@ -12,7 +12,7 @@ namespace Algorithms.Problems
         {
             startInput();
 
-            _1119_Metro.main();
+            _1204_Idempotents.main();
 
             Console.ReadLine();
         }
